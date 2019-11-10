@@ -5,8 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: _data/navigation.yml
-  label: Navigation
+  path: _data/ui-text.yml
+  label: UI Text
   match: "**/*"
 - type: directory
   path: _pages
