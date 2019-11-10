@@ -7,13 +7,13 @@ tags: []
 ---
 _The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups._
 
-_"Never have I seen such a thirsty bunch of **\*hic\***_ travellers! Friends, you are in lu--**_hic_** luck, Arno the Arcane Sommelier is here to answer the prayers of the **_hic_** parched."
+_"Never have I seen such a thirsty bunch of **\*hic\*** travellers! Friends, you are in lu--**\*hic\*** luck, Arno the Arcane Sommelier is here to answer the prayers of the **\*hic\*** parched."
 
 _He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within._
 
 _As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish._
 
-_“Arno’s Spring Dew - just the stuff to soothe a **hic**_ dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **_hic_** friends, try a sample of my many libations, a gift from me to you!”
+_“Arno’s Spring Dew - just the stuff to soothe a **\*hic\*** dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **\*hic\*** friends, try a sample of my many libations, a gift from me to you!”
 
 ### Arno
 
