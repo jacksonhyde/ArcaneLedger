@@ -7,15 +7,15 @@ tags: []
 ---
 _The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups._
 
-_"Never have I seen such a thirsty bunch of __*hic*__ travellers! Friends, you are in lu--__*hic*__ luck, Arno the Arcane Sommelier is here to answer the prayers of the __*hic*__ parched."_
+_"Never have I seen such a thirsty bunch of **hic**_ travellers! Friends, you are in lu--**_hic_** luck, Arno the Arcane Sommelier is here to answer the prayers of the **_hic_** parched."
 
 _He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within._
 
 _As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish._
 
-_“Arno’s Spring Dew - just the stuff to soothe a __*hic*__ dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- __*hic*__ friends, try a sample of my many libations, a gift from me to you!”_
+_“Arno’s Spring Dew - just the stuff to soothe a **hic**_ dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **_hic_** friends, try a sample of my many libations, a gift from me to you!”
 
-#### Arno
+### Arno
 
 Arno the Arcane Sommelier is a travelling potion salesman of dubious repute. Each of Arno’s concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. While these side effects are never permanent, disgruntled customers are often denied recompense - Arno and his Travelling Still have moved on to the next town.
 
@@ -31,7 +31,6 @@ A roll of 3 would mean the initial effects last 3 hours, with side effects manif
 
 While ingenious, Arno’s Still is far from reliable. Bemused patron’s will often be pitched ‘alternatives’ before Arno manages to coax the correct order from the device. There are no prices on his menu; he prefers to appraise the affluence of his patrons before his proposes a transaction. He is flexible on price and will often offer discounts for bulk purchases. Arno may offer small samples of his potions. These samples are too small to manifest side effects, but do convey a momentary taste of the initial effects.
 
-
-|d20|Name|Description|
-|--|--|--|
-|1||Arno’s Spring Dew|A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming.**Side effects:** You struggle to talk in words of more than one syllable. Drinking 3 servings a day causes uncontrollable hiccups for the next 24 hours.|
+| d20 | Name | Description |
+| --- | --- | --- |
+| 1 |  | Arno’s Spring Dew |
