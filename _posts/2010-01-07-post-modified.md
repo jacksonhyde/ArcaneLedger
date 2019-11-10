@@ -5,15 +5,15 @@ categories: []
 tags: []
 
 ---
-> The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups._
+> The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
-> "Never have I seen such a thirsty bunch of **\*hic\*** travellers! Friends, you are in lu--**\*hic\*** luck, Arno the Arcane Sommelier is here to answer the prayers of the **\*hic\*** parched."
+> "Never have I seen such a thirsty bunch of __*hic*__ travellers! Friends, you are in lu--__*hic*__ luck, Arno the Arcane Sommelier is here to answer the prayers of the __*hic*__ parched."
 
-> He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within._
+> He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
 
-> As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish._
+> As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish.
 
-> “Arno’s Spring Dew - just the stuff to soothe a **\*hic\*** dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **\*hic\*** friends, try a sample of my many libations, a gift from me to you!”
+> “Arno’s Spring Dew - just the stuff to soothe a __*hic*__ dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- __*hic*__ friends, try a sample of my many libations, a gift from me to you!”
 
 ### Arno
 
@@ -33,6 +33,6 @@ While ingenious, Arno’s Still is far from reliable. Bemused patron’s will of
 
 | d20 | Name | Description |
 | --- | --- | --- |
-| 1 | Arno’s Spring Dew |A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming. **Side effects:** You struggle to talk in words of more than one syllable. Drinking 3 servings a day causes uncontrollable hiccups for the next 24 hours. |
-| 2 | Gentleman’s Friend |A fizzing red tincture that stains the lips, sour and spicy yet not unpleasant. Immediately sobers you up and removes all signs of inebriation. Does not cure poisons or illnesses.  **Side effects:** The previous symptoms of inebriation return with extra potency. |
-| 3 | Sunday Best |A golden tonic that catches the sunlight. Dry, fruity and refined. Immediately causes your unkempt body hair to appear well groomed and lustrous. **Side effects:** Your body hair grows at an alarming rate |
+| 1 | Arno’s Spring Dew | A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming. Side effects: You struggle to talk in words of more than one syllable. Drinking 3 servings a day causes uncontrollable hiccups for the next 24 hours. |
+| 2 | Gentleman’s Friend | A fizzing red tincture that stains the lips, sour and spicy yet not unpleasant. Immediately sobers you up and removes all signs of inebriation. Does not cure poisons or illnesses.  Side effects: The previous symptoms of inebriation return with extra potency. |
+| 3 | Sunday Best | A golden tonic that catches the sunlight. Dry, fruity and refined. Immediately causes your unkempt body hair to appear well groomed and lustrous. Side effects: Your body hair grows at an alarming rate |
