@@ -32,3 +32,8 @@ A roll of 3 would mean the initial effects last 3 hours, with side effects manif
 Potions
 
 While ingenious, Arno’s Still is far from reliable. Bemused patron’s will often be pitched ‘alternatives’ before Arno manages to coax the correct order from the device. There are no prices on his menu; he prefers to appraise the affluence of his patrons before his proposes a transaction. He is flexible on price and will often offer discounts for bulk purchases. Arno may offer small samples of his potions. These samples are too small to manifest side effects, but do convey a momentary taste of the initial effects.
+
+
+|d20|Name|Description|
+|--|--|--|
+|1||Arno’s Spring Dew|A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming.**Side effects:** You struggle to talk in words of more than one syllable. Drinking 3 servings a day causes uncontrollable hiccups for the next 24 hours.|
