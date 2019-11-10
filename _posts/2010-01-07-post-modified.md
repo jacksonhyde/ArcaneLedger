@@ -1,13 +1,13 @@
 ---
 title: 'Arno''s Travelling Still: 20 Potions of Dubious Vintage'
-last_modified_at: 2016-03-09 21:20:02 +0000
+last_modified_at: 2016-03-09T21:20:02.000+00:00
 categories: []
 tags: []
 
 ---
 _The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups._
 
-_"Never have I seen such a thirsty bunch of **hic**_ travellers! Friends, you are in lu--**_hic_** luck, Arno the Arcane Sommelier is here to answer the prayers of the **_hic_** parched."
+_"Never have I seen such a thirsty bunch of **\*hic\***_ travellers! Friends, you are in lu--**_hic_** luck, Arno the Arcane Sommelier is here to answer the prayers of the **_hic_** parched."
 
 _He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within._
 
