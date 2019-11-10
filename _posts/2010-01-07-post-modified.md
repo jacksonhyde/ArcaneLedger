@@ -21,15 +21,13 @@ Arno the Arcane Sommelier is a travelling potion salesman of dubious repute. Eac
 
 Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto. If confronted, Arno will try to placate his accusers with free samples, using obsequious slick talk to avoid violent confrontation.
 
-####   
-Potion Effects
+### Potion Effects
 
 Each of Arno’s potions have two effects. An initial effect and a delayed side effect. When a potion is consumed roll a d3. The result determines how many hours the initial result lasts, but also how many days until the delayed side effects begin to manifest. Delayed side effects last for _twice_ the duration of the initial effect.
 
 A roll of 3 would mean the initial effects last 3 hours, with side effects manifesting 3 days after consuming the potion. The side effects would last for 6 hours.
 
-####   
-Potions
+### Potions
 
 While ingenious, Arno’s Still is far from reliable. Bemused patron’s will often be pitched ‘alternatives’ before Arno manages to coax the correct order from the device. There are no prices on his menu; he prefers to appraise the affluence of his patrons before his proposes a transaction. He is flexible on price and will often offer discounts for bulk purchases. Arno may offer small samples of his potions. These samples are too small to manifest side effects, but do convey a momentary taste of the initial effects.
 
