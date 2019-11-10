@@ -13,7 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.6;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -107,11 +107,19 @@ abbr[data-original-title] {
 /* blockquotes */
 
 blockquote {
-  margin: 2em 1em 2em 0;
-  padding-left: 1em;
-  padding-right: 1em;
+  margin: 0em;
+  padding: 1em;
+  background-color: #eeeeee;
   font-style: italic;
   border-left: 0.25em solid $primary-color;
+  
+  + blockquote {
+    padding-top: 0;
+  }
+  
+  p {
+    margin-bottom: 0 !important;
+  }
 
   cite {
     font-style: italic;
