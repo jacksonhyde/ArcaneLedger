@@ -33,4 +33,4 @@ While ingenious, Arno’s Still is far from reliable. Bemused patron’s will of
 
 | d20 | Name | Description |
 | --- | --- | --- |
-| 1 |  | Arno’s Spring Dew |
+| 1 | Arno’s Spring Dew |A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming.**Side effects:** You struggle to talk in words of more than one syllable. Drinking 3 servings a day causes uncontrollable hiccups for the next 24 hours. |
