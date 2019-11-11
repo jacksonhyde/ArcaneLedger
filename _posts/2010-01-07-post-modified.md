@@ -9,7 +9,7 @@ tags: []
 
 > "Never have I seen such a thirsty bunch of **\*hic\*** travellers! Friends, you are in lu--**\*hic\*** luck, Arno the Travelling Sommelier is here to answer the prayers of the **\*hic\*** parched."
 
-> He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
+> He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: it appears to be an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
 
 > As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish.
 
