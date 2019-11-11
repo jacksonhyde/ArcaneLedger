@@ -7,7 +7,7 @@ tags: []
 ---
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
-> "Never have I seen such a thirsty bunch of **\*hic\*** travellers! Friends, you are in lu--**\*hic\*** luck, Arno the Arcane Sommelier is here to answer the prayers of the **\*hic\*** parched."
+> "Never have I seen such a thirsty bunch of **\*hic\*** travellers! Friends, you are in lu--**\*hic\*** luck, Arno the Travelling Sommelier is here to answer the prayers of the **\*hic\*** parched."
 
 > He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
 
@@ -15,9 +15,9 @@ tags: []
 
 > “Arno’s Spring Dew - just the stuff to soothe a **\*hic\*** dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **\*hic\*** friends, try a sample of my many libations, a gift from me to you!”
 
-## Arno
+## Arno the Travelling Sommelier
 
-Arno the Arcane Sommelier is a travelling potion salesman of dubious repute. Each of Arno’s concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. While these side effects are never permanent, disgruntled customers are often denied recompense - Arno and his Travelling Still have moved on to the next town.
+Arno a potion salesman of dubious repute. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. While these side effects are never permanent, disgruntled customers are often denied recompense - Arno and his Travelling Still have moved on to the next town.
 
 Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto. If confronted, Arno will try to placate his accusers with free samples, using obsequious slick talk to avoid violent confrontation.
 
