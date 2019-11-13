@@ -32,7 +32,7 @@ While ingenious, Arno’s Still is far from reliable. Bemused patron’s will of
 
 | d20 | Name | Description |
 | --- | --- | --- |
-| 1 | Arno’s Spring Dew | A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming. *** **Side effects:** You struggle to use words of more than one syllable. Drinking 3 servings causes uncontrollable hiccups for the next 24 hours. |
+| 1 | Arno’s Spring Dew | A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming. --- **Side effects:** You struggle to use words of more than one syllable. Drinking 3 servings causes uncontrollable hiccups for the next 24 hours. |
 | 2 | Gentleman’s Friend | A fizzing red tincture that stains the lips. Sour and spicy yet not unpleasant. Immediately sobers you up and removes all signs of inebriation. Does not cure poisons or illnesses.*** **Side effects:** The previous symptoms of inebriation return with extra potency. |
 | 3 | Sunday Best | A golden tonic that catches the sunlight. Dry, fruity and refined. Immediately causes your unkempt body hair to appear well groomed and lustrous. <br>Side effects: Your body hair grows at an alarming rate |
 | 4 | Champion’s Choice | A sweet milky beverage with floating curds. Your muscles swell and tighten and you feel a renewed strength flowing through your body.*** **Side effects:** You weep uncontrollably. |
