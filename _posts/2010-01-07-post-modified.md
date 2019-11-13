@@ -1,9 +1,7 @@
 ---
 title: 'Arno''s Travelling Still: 20 Potions of Dubious Vintage'
-last_modified_at: 2016-03-09T21:20:02.000+00:00
 categories: []
 tags: []
-
 ---
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
