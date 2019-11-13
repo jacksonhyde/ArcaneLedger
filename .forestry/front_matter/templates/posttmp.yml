@@ -12,4 +12,5 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/lorem-ipsum.md
 - _posts/2019-11-13-arnos-travelling-still.md
