@@ -31,7 +31,7 @@ A roll of 3 would mean the initial effects last 3 hours, with side effects manif
 While ingenious, Arno’s Still is far from reliable. Bemused patron’s will often be pitched ‘alternatives’ before Arno manages to coax the correct order from the device. There are no prices on his menu; he prefers to appraise the affluence of his patrons before his proposes a transaction. He is flexible on price and will often offer discounts for bulk purchases. Arno may offer small samples of his potions. These samples are too small to manifest side effects, but do convey a momentary taste of the initial effects.
 
 | d20 | Name | Description |
-| --- | --- | --- |
+|:---:| --- | --- |
 | 1 | Arno’s Spring Dew | A cinnamon flavoured liqueur, delicious and refreshing. You feel erudite and charming. <br/><small>**Side effects:** You struggle to use words of more than one syllable. Drinking 3 servings causes uncontrollable hiccups for the next 24 hours.</small> |
 | 2 | Gentleman’s Friend | A fizzing red tincture that stains the lips. Sour and spicy yet not unpleasant. Immediately sobers you up and removes all signs of inebriation. Does not cure poisons or illnesses.<br/><small>**Side effects:** The previous symptoms of inebriation return with extra potency.</small> |
 | 3 | Sunday Best | A golden tonic that catches the sunlight. Dry, fruity and refined. Immediately causes your unkempt body hair to appear well groomed and lustrous. <br/><small>**Side effects:** Your body hair grows at an alarming rate.</small> |
