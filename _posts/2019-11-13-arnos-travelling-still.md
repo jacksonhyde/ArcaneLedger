@@ -16,7 +16,7 @@ tags: []
 
 ## Arno the Travelling Sommelier
 
-Arno is a potion salesman of dubious repute. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town.
+Arno is a potion salesman of dubious ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town.
 
 Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto. If confronted, he will try to placate his accusers with free samples, using obsequious slick talk to avoid violent confrontation.
 
