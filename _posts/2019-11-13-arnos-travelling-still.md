@@ -6,19 +6,19 @@ tags: []
 ---
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
-> "Never have I seen such a thirsty bunch of ___*hic*___ travellers! Friends, you are in lu- ___*hic*___ luck, Arno the Travelling Sommelier is here to answer the prayers of the ___*hic*___ parched."
+> "Never have I seen such a thirsty bunch of **_hic_** travellers! Friends, you are in lu- **_hic_** luck, Arno the Travelling Sommelier is here to answer the prayers of the **_hic_** parched."
 
 > He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: it appears to be an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
 
 > As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish.
 
-> “Arno’s Spring Dew - just the stuff to soothe a ___*hic*___ dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- ___*hic*___ friends, try a sample of my many libations, a gift from me to you!”
+> “Arno’s Spring Dew - just the stuff to soothe a **_hic_** dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **_hic_** friends, try a sample of my many libations, a gift from me to you!”
 
 ## Arno the Travelling Sommelier
 
-Arno is a potion salesman of dubious ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town.
+Arno is a potion salesman of dubious ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. 
 
-Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto. If confronted, he will try to placate his accusers with free samples, using obsequious slick talk to avoid violent confrontation.
+While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town. Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto.
 
 ## Potion Effects
 
@@ -56,7 +56,7 @@ While ingenious, Arno’s Still is far from reliable. Bemused patron’s will of
 
 Should a group of travellers be unfortunate enough to fall foul of Arno’s chicanery, they may struggle to track him down. Arno has made many enemies over the years and out of necessity he has mastered the art of evasion.
 
-Once his customers are out of sight Arno will feed the mules pulling his wagon a dram of Stallion Reserve, driving them to preternatural speeds as he flees the scene of the crime. By the time his customers realise they have been duped, Arno will be many leagues away.
+Once his customers are out of sight, Arno will feed the mules pulling his wagon a dram of Stallion Reserve, driving them to preternatural speeds as he flees the scene of the crime. By the time his customers realise they have been duped, Arno will be many leagues away.
 
 Only the most tenacious of trackers will be able to close the distance. Typically, anyone following in Arno’s footsteps will encounter more of his victims, each suffering from some embarrassing ailment, each as incensed as the last. Offered a chance at revenge, these disgruntled patrons will frequently join the hunt, forming an angry mob of the curiously afflicted intent on justice. The mob rarely succeeds in catching Arno, normally losing steam and dispersing once the side effects have worn off.
 
