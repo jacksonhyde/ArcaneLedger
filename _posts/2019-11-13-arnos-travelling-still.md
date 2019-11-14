@@ -6,17 +6,17 @@ tags: []
 ---
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
-> "Never have I seen such a thirsty bunch of **\*hic\*** travellers! Friends, you are in lu- **\*hic\*** luck, Arno the Travelling Sommelier is here to answer the prayers of the **\*hic\*** parched."
+> "Never have I seen such a thirsty bunch of __*hic*__ travellers! Friends, you are in lu- __*hic*__ luck, Arno the Travelling Sommelier is here to answer the prayers of the __*hic*__ parched."
 
 > He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: it appears to be an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
 
 > As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish.
 
-> “Arno’s Spring Dew - just the stuff to soothe a **\*hic\*** dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **\*hic\*** friends, try a sample of my many libations, a gift from me to you!”
+> “Arno’s Spring Dew - just the stuff to soothe a __*hic*__ dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- __*hic*__ friends, try a sample of my many libations, a gift from me to you!”
 
 ## Arno the Travelling Sommelier
 
-Arno is a potion salesman of suspect ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result.
+Arno is a potion salesman of suspect ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired effect
 
 While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town. Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto.
 
