@@ -16,7 +16,7 @@ tags: []
 
 ## Arno the Travelling Sommelier
 
-Arno is a potion salesman of dubious ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result. 
+Arno is a potion salesman of dubious ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired result.
 
 While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town. Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto.
 
@@ -54,7 +54,7 @@ While ingenious, Arno’s Still is far from reliable. Bemused patron’s will of
 
 ## Tracking Arno
 
-Arno has made many enemies over the years and out of necessity he has mastered the art of evasion. Should a group of travellers be unfortunate enough to fall foul of Arno’s chicanery, they will struggle to track him down. 
+Arno has made many enemies over the years, out of necessity he has mastered the art of evasion. Should a group of travellers be unfortunate enough to fall foul of Arno’s chicanery, they will struggle to track him down.
 
 Once his customers are out of sight, Arno will feed the mules pulling his wagon a dram of Stallion Reserve, driving them to preternatural speeds as he flees the scene of the crime. By the time his customers realise they have been duped, Arno will be many leagues away.
 
