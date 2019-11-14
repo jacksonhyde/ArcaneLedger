@@ -6,7 +6,7 @@ tags: []
 ---
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
-> "Never have I seen such a thirsty bunch of ***\*hic\**** travellers! Friends, you are in lu-- ***\*hic\**** luck, Arno the Travelling Sommelier is here to answer the prayers of the ***\*hic\**** parched."
+> "Never have I seen such a thirsty bunch of ***\*hic\**** travellers! Friends, you are in lu- ***\*hic\**** luck, Arno the Travelling Sommelier is here to answer the prayers of the ***\*hic\**** parched."
 
 > He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: it appears to be an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
 
