@@ -50,7 +50,7 @@ While ingenious, Arno’s Still is far from reliable. Bemused patron’s will of
 | 16 | Mermaid’s Ruin | A salty, semi-gelatinous fluid with a lavender fragrance.  You become adept at navigating on open water.<br/><small>Side effects: You are consumed by a thirst no drink can quench.</small> |
 | 17 | Birds-Eye Brew | A deep ruby ale with a nutty flavour, it glows enticingly in the sunlight. Gives you proficiency in pathfinding through rough terrain.<br/><small>Side effects: You are easily entranced by shiny objects.</small> |
 | 18 | Summer Breeze | A fruity citrus blend, your eyes begin to droop as sip it. Regardless of your current surroundings you fall into a deep and satisfying sleep, awakening with a spring in your step and a sunny disposition.<br/><small>Side effects: You instantly fall into a torturous sleep, resisting all attempts to wake you from your nightmares.</small> |
-| 19 | Lark's Tongue | A light green tincture that smells like hibiscus and bracken. You temporarily gain the ability to communicate with animals.<br/><small>Side effects: You are incredibly uncomfortable wearing clothes and feel a strong compulsion to strip naked. Wearing clothes causes intense rashes and irritations.</small> |
+| 19 | Lark's Tongue | A light green tincture that smells like hibiscus and bracken. You temporarily gain the ability to communicate with animals.<br/><small>Side effects: Your clothing causes intense rashes and irritations and you feel a strong compulsion to strip naked.</small> |
 | 20 | tbd | tbd |
 
 
