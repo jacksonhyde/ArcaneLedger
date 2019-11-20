@@ -6,19 +6,31 @@ tags: []
 ---
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
-> "Never have I seen such a thirsty bunch of __*hic*__ travellers! Friends, you are in lu- __*hic*__ luck, Arno the Travelling Sommelier is here to answer the prayers of the __*hic*__ parched."
+> "Never have I seen such a thirsty bunch of **_hic_** travellers! Friends, you are in lu- **_hic_** luck, Arno the Travelling Sommelier is here to answer the prayers of the **_hic_** parched."
 
 > He hops down from the footboard, swinging on a lever protruding from the cabin. The bulbous exterior of the wagon unfolds like a mechanical flower, revealing a complex instrument of copper and glass: it appears to be an alchemical still. A music box crawls to life, and the merry polka synchronises with the pops and gurgles of effervescent liquids swirling within.
 
 > As if from nowhere he produces a tray of small glasses and strides over to one of the many taps protruding from the contraption. A subtle cinnamon aroma dances on the breeze as he fills the glasses with a clear syrup. He winks and drinks down one of the glasses with a theatrical flourish.
 
-> “Arno’s Spring Dew - just the stuff to soothe a __*hic*__ dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- __*hic*__ friends, try a sample of my many libations, a gift from me to you!”
+> “Arno’s Spring Dew - just the stuff to soothe a **_hic_** dusty gullet. Guaranteed satisfaction and a pleasant disposition to boot! Come fr- **_hic_** friends, try a sample of my many libations, a gift from me to you!”
 
 ## Arno the Travelling Sommelier
 
 Arno is a potion salesman of suspect ability. Each of his concoctions are seemingly benign, granting some trivial boon for a short space of time. However, despite Arno’s best intentions his customers will invariably develop unwanted side effects, typically at odds with the desired effect
 
 While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town. Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto.
+
+**Armour Class**: 10  
+**Hit points**: 4 (1d8)  
+**Speed**: 25ft
+
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10|11|10|12|8|13|
+
+**Alignment**: Neutral
+**Skills**: Stealth +2, Persuasion +3, Sleight of Hand +2
+**Equipment**: Garish clothes, alchemist's supplies, dagger, Arno’s Reserve (see below)
 
 ## Potion Effects
 
@@ -52,7 +64,6 @@ While ingenious, Arno’s Still is far from reliable. Bemused patron’s will of
 | 18 | Summer Breeze | A fruity citrus blend, your eyes begin to droop as sip it. Regardless of your current surroundings you fall into a deep and satisfying sleep, awakening with a spring in your step and a sunny disposition.<br/><small>Side effects: You instantly fall into a torturous sleep, resisting all attempts to wake you from your nightmares.</small> |
 | 19 | Lark's Tongue | A light green tincture that smells like hibiscus and bracken. You temporarily gain the ability to communicate with animals.<br/><small>Side effects: Your clothing causes intense rashes and irritations and you feel a strong compulsion to strip naked.</small> |
 | 20 | tbd | tbd |
-
 
 ## Tracking Arno
 
