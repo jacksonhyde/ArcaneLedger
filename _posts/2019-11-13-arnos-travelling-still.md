@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Arno's Travelling Still:<br/>20 Potions of Dubious Vintage"
+title: Arno's Travelling Still:<br/>20 Potions of Dubious Vintage
 categories: []
 tags: []
 
