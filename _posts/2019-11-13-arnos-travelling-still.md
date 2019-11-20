@@ -21,7 +21,7 @@ Arno is a potion salesman of suspect ability. Each of his concoctions are seemin
 While these side effects are never permanent, disgruntled customers are often denied recompense - Arno has moved on to the next town. Naturally, Arno does not advertise the delayed effects, and will deny any such allegations with gusto.
 
 **Armour Class**: 10  <br/>
-**Hit points**: 4 (1d8)  <br/>
+**Hit points**: 9 (1d8)  <br/>
 **Speed**: 25ft
 
 | STR | DEX | CON | INT | WIS | CHA |
