@@ -1,7 +1,11 @@
 ---
 title: Arno's Travelling Still:<br/>20 Potions of Dubious Vintage
 categories: []
-tags: []
+tags:
+- fantasy
+- encounter
+- npc
+- osr
 
 ---
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
