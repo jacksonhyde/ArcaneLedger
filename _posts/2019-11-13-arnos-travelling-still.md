@@ -9,6 +9,8 @@ tags:
 - osr
 
 ---
+![](/ArcaneLedger/assets/images/arno.gif)
+
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
 > "Never have I seen such a thirsty bunch of **_hic_** travellers! Friends, you are in lu- **_hic_** luck, Arno the Travelling Sommelier is here to answer the prayers of the **_hic_** parched."
