@@ -17,5 +17,11 @@ fields:
     maxSize: 250
   description: Article image
   label: Image
+- name: image_alt
+  type: text
+  config:
+    required: false
+  label: Image Alt
+  description: Image Alt Text
 pages:
 - _posts/2019-11-13-arnos-travelling-still.md
