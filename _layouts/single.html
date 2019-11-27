@@ -31,6 +31,15 @@ layout: default
           {% endif %}
         </header>
       {% endunless %}
+        {% if page.image %}
+          <img class="page__image" src=
+            {% if post.image contains "://" %}
+              "{{ page.image }}"
+            {% else %}
+              "{{ page.image | relative_url }}"
+            {% endif %}
+            alt="{{ page.image_alt }}">
+        {% endif %}
 
       <section class="page__content" itemprop="text">
         {% if page.toc %}
