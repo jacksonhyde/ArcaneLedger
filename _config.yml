@@ -58,7 +58,6 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Weird encounters for RPGs"
 
 footer:
