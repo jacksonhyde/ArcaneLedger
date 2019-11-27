@@ -7,9 +7,9 @@ tags:
 - encounter
 - npc
 - osr
+image: "/ArcaneLedger/assets/images/arno.gif"
 
 ---
-![](/ArcaneLedger/assets/images/arno.gif)
 
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
