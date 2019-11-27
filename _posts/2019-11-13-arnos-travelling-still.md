@@ -7,7 +7,7 @@ tags:
 - encounter
 - npc
 - osr
-image: "/ArcaneLedger/assets/images/arno.gif"
+image: "/assets/images/arno.gif"
 image_alt: Arno the Travelling Sommelier
 
 ---
