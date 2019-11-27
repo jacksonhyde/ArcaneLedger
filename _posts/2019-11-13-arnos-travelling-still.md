@@ -2,7 +2,6 @@
 title: Arno's Travelling Still:<br/>20 Potions of Dubious Vintage
 categories: []
 tags:
-- DnD 5e
 - fantasy
 - encounter
 - npc
