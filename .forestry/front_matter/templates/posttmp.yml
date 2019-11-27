@@ -11,5 +11,11 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  description: Article image
+  label: Image
 pages:
 - _posts/2019-11-13-arnos-travelling-still.md
