@@ -2,12 +2,11 @@
 title: Arno's Travelling Still:<br/>20 Potions of Dubious Vintage
 categories: []
 tags:
-- DnD 5e
 - fantasy
 - encounter
 - npc
 - osr
-image: "/ArcaneLedger/assets/images/arno.gif"
+image: "/assets/images/arno.gif"
 image_alt: Arno the Travelling Sommelier
 
 ---
@@ -84,3 +83,5 @@ Only the most tenacious of trackers will be able to close the distance. Typicall
 ## Catching Arno
 
 If captured, Arno will try to placate his accusers with free samples, using obsequious slick talk to avoid violent confrontation. If violence is unavoidable, Arno will quickly quaff a serving of Arno's Secret Sauce - a violent concoction that enlarges his physical size to nearly 20ft tall. While in this form Arno is a dangerous foe, even his personal potion stash is unreliable. Within minutes of drinking the potion Arno shrinks down to just a few inches, a side effect he will have to endure for at least a week - if he can survive that long.
+
+.
