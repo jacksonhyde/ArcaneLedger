@@ -10,6 +10,8 @@ image: "/assets/images/arno.gif"
 image_alt: Arno the Travelling Sommelier
 
 ---
+Arno, the Travelling Sommelier is a drop-in NPC you can use for your campaigns. As well as background on Arno, we have also included a list of 20 potions that you might find in his inventory.
+
 > The rosy-cheeked halfling launches into his sales pitch as the curious wagon grinds to a halt, his well-rehearsed patter punctuated with impromptu hiccups.
 
 > "Never have I seen such a thirsty bunch of **_hic_** travellers! Friends, you are in lu- **_hic_** luck, Arno the Travelling Sommelier is here to answer the prayers of the **_hic_** parched."
